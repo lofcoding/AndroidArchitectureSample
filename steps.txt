@@ -1,0 +1,3 @@
+1- Add the dependencies
+2- Create the package structure
+3- Start from the domain layer
